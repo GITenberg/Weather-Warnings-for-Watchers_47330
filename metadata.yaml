@@ -1,4 +1,8 @@
 _repo: Weather-Warnings-for-Watchers_47330
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47330-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -9,6 +13,8 @@ creator:
     - http://en.wikipedia.org/wiki/Anonymity
     - http://www.gutenberg.org/browse/authors/u#a49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47330#Weather-Warnings-for-Watchers
 gutenberg_issued: '2014-11-11'
 gutenberg_type: Text
 identifiers:
